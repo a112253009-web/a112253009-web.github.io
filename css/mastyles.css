@@ -47,3 +47,25 @@ nav{
     background-color: rgb(245, 239, 218);
 }
 
+p.lead {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+p {
+    font-size: 1.15rem;
+}
+
+body, h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1, .subheading {
+    font-family: "Noto Sans TC", sans-serif;
+    text-transform: none;
+    font-weight: 400;
+}
+
+.container, .container-fluid, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm {
+    font-size: 1.15rem;
+}
+
+p {
+    font-size: 1.3rem;
+}
